@@ -1,6 +1,0 @@
-C:\Users\v-pasiva\github\CaesarCipher\CaesarCipher\bin\Debug\CaesarCipher.exe.config
-C:\Users\v-pasiva\github\CaesarCipher\CaesarCipher\bin\Debug\CaesarCipher.exe
-C:\Users\v-pasiva\github\CaesarCipher\CaesarCipher\bin\Debug\CaesarCipher.pdb
-C:\Users\v-pasiva\github\CaesarCipher\CaesarCipher\obj\Debug\CaesarCipher.csprojResolveAssemblyReference.cache
-C:\Users\v-pasiva\github\CaesarCipher\CaesarCipher\obj\Debug\CaesarCipher.exe
-C:\Users\v-pasiva\github\CaesarCipher\CaesarCipher\obj\Debug\CaesarCipher.pdb
